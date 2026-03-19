@@ -43,7 +43,7 @@ Soy un futuro **Ingeniero en Sistemas** apasionado por la arquitectura de softwa
     </td>
     <td>
       <strong>🔗 Professional-Certificate-in-Meta-Back-End-Developer </strong><br />
-      <p> <a href="https://github.com/AlejoSantamarina/Professional-Certificate-in-Meta-Back-End-Developer"> Laboratorios y APIs desarrolladas durante la certificación. <strong> (En curso) </strong> </a></p>
+      <p> <a href="https://github.com/AlejoSantamarina/Professional-Certificate-in-Meta-Back-End-Developer"> Laboratorios y APIs desarrolladas durante la certificación. </a><strong> (En curso) </strong></p>
     </td>
   </tr>
 </table>
