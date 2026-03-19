@@ -39,11 +39,11 @@ Soy un futuro **Ingeniero en Sistemas** apasionado por la arquitectura de softwa
   <tr>
     <td>
       <strong>☕ Java Mastery Hub</strong><br />
-      Repositorio centralizado con +20 proyectos de lógica y POO.
+      <p> <a href="https://github.com/AlejoSantamarina/Java-Mastery-Hub"> Repositorio centralizado con +20 proyectos de lógica y POO. </a></p>
     </td>
     <td>
       <strong>🔗 Professional-Certificate-in-Meta-Back-End-Developer </strong><br />
-      Laboratorios y APIs desarrolladas durante la certificación. <strong> (En curso) </strong>
+      <p> <a href="https://github.com/AlejoSantamarina/Professional-Certificate-in-Meta-Back-End-Developer"> Laboratorios y APIs desarrolladas durante la certificación. <strong> (En curso) </strong> </a></p>
     </td>
   </tr>
 </table>
