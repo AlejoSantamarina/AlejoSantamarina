@@ -52,7 +52,7 @@ Soy un futuro **Ingeniero en Sistemas** apasionado por la arquitectura de softwa
 
 ### 📈 Actividad en GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejoSantamarina&show_icons=true&theme=radical&hide_border=true" alt="Stats de [Tu Nombre]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejoSantamarina&show_icons=true&theme=radical&hide_border=true" alt="Stats de Alejo Santamarina" />
 </div>
 
 ---
