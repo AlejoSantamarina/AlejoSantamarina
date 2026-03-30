@@ -51,5 +51,5 @@ Soy un futuro **Ingeniero en Sistemas** apasionado por la arquitectura de softwa
 ---
 
 <div align="center">
-  <p>📧 <strong>Contacto:</strong> [alejosantamarina@icloud.com] | 🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alejo-santamarina-5074212b4/">AlejoSantamarina</a></p>
+  <p>📧 <strong>Contacto:</strong> alejosantamarina@icloud.com | 🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alejo-santamarina-5074212b4/">AlejoSantamarina</a></p>
 </div>
