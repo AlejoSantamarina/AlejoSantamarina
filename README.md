@@ -1,13 +1,13 @@
 <div align="center">
   <h1>¡Hola! Soy Alejo Santamarina 👋</h1>
-  <p><strong>Back-End Developer | Estudiante de Ingeniería en Sistemas</strong></p>
-  <p><i>Construyendo bases de datos robustas, APIs escalables y lógica de servidores eficiente con Python y Django.</i></p>
+  <p><strong>Junior Back-End Developer | Estudiante de Ingeniería en Sistemas</strong></p>
+  <p><i>Construyendo mis primeros sistemas y APIs con Python, Django y bases de datos relacionales.</i></p>
 </div>
 
 <hr />
 
 ### 🚀 Sobre mí
-Soy un futuro **Ingeniero en Sistemas** enfocado en el desarrollo **Back-End**. Combino la rigurosidad teórica de la universidad con el desarrollo práctico de sistemas robustos. Actualmente profundizo en el ecosistema de Python, arquitectura de APIs y patrones de diseño orientados a la escalabilidad, respaldado por la **Certificación Profesional de Meta**.
+Soy estudiante de Ingeniería en Sistemas apasionado por el desarrollo back-end. Me estoy enfocando en dominar el ecosistema de **Python, Django y SQL**, aplicando principios de Programación Orientada a Objetos (POO) y buenas prácticas de desarrollo para crear soluciones limpias, ordenadas y escalables.
 
 ---
 
@@ -15,8 +15,7 @@ Soy un futuro **Ingeniero en Sistemas** enfocado en el desarrollo **Back-End**. 
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <br />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -26,11 +25,11 @@ Soy un futuro **Ingeniero en Sistemas** enfocado en el desarrollo **Back-End**. 
 
 ---
 
-### 🧠 Fundamentos de Ingeniería
-- **Desarrollo Back-End:** Diseño y consumo de APIs, manejo de ORM, autenticación y seguridad en servidores.
-- **Bases de Datos & SQL:** Modelado relacional, consultas optimizadas y gestión de esquemas de datos.
-- **Arquitectura de Software:** Aplicación rigurosa de Programación Orientada a Objetos (POO) y principios de código limpio.
-- **Entornos de Trabajo:** Control de versiones avanzado con Git y despliegue en entornos Unix/Linux.
+### 🧠 Lo que practico y estudio
+- **Desarrollo Back-End:** Creación de APIs, manejo de modelos, vistas y ORM en Django.
+- **Bases de Datos:** Modelado relacional y consultas SQL.
+- **Programación Orientada a Objetos (POO):** Estructuración de código modular y reutilizable en Python.
+- **Entornos y Herramientas:** Uso diario de Git/GitHub y terminal Linux.
 
 ---
 
@@ -38,12 +37,8 @@ Soy un futuro **Ingeniero en Sistemas** enfocado en el desarrollo **Back-End**. 
 <table>
   <tr>
     <td>
-      <strong>🔗 Meta Back-End Developer Professional Certificate</strong><br />
-      <p> <a href="https://github.com/AlejoSantamarina/Professional-Certificate-in-Meta-Back-End-Developer"> Repositorio oficial con APIs, modelos de bases de datos y prácticas en Django. </a><strong> (En curso) </strong></p>
-    </td>
-    <td>
-      <strong>☕ Java Mastery Hub</strong><br />
-      <p> <a href="https://github.com/AlejoSantamarina/Java-Mastery-Hub"> Colección de algoritmos, estructuras de datos y proyectos bajo estrictos principios de POO. </a></p>
+      <strong>🐍 Backend & Python Projects</strong><br />
+      <p> <a href="https://github.com/AlejoSantamarina"> Prácticas, APIs y scripts desarrollados en mi camino como backend developer. </a></p>
     </td>
   </tr>
 </table>
