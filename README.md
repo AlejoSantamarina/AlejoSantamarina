@@ -38,7 +38,7 @@ Soy estudiante de Ingeniería en Sistemas apasionado por el desarrollo back-end.
   <tr>
     <td>
       <strong>🐍 Backend & Python Projects</strong><br />
-      <p> <a href="https://github.com/AlejoSantamarina"> Prácticas, APIs y scripts desarrollados en mi camino como backend developer. </a></p>
+      <p> <a> PROXIMAMENTE! </a></p>
     </td>
   </tr>
 </table>
