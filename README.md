@@ -37,8 +37,8 @@ Soy estudiante de Ingeniería en Sistemas apasionado por el desarrollo back-end.
 <table>
   <tr>
     <td>
-      <strong>🐍 Backend & Python Projects</strong><br />
-      <p> <a> PROXIMAMENTE! </a></p>
+      <strong> PROXIMAMENTE!<br />
+      <p> <a> </a></p>
     </td>
   </tr>
 </table>
